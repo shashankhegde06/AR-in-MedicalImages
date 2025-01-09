@@ -1,1 +1,1 @@
-# AR-in-MedicalImages
+# AR-in-Medical Images
