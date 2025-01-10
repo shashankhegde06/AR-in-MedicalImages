@@ -12,9 +12,3 @@ This project focuses on converting 2D medical imaging data (e.g., MRI, CT scans)
 - **Enhanced Accessibility**: Provides a user-friendly interface for clinicians and patients to explore anatomy intuitively.
 
 ---
-
-### **Technologies Used**
-- **Programming Language**: Python
-- **3D Reconstruction**: Libraries like `numpy`, `matplotlib`, `vtk`, and `pydicom` for 3D modeling.
-- **WebAR**: Integration using frameworks like `three.js`, `8thWall`, or `A-Frame` for AR visualization.
-- **Cloud Services**: Cloud-based computing for processing 3D reconstructions and AR hosting.
